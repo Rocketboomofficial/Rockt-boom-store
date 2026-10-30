@@ -1,0 +1,22 @@
+{
+  "id": "/",
+  "name": "Rocket Boom Store",
+  "short_name": "RB Store",
+  "description": "فروشگاه اپلیکیشن‌ها و بازی‌های Rocket Boom",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7fc",
+  "theme_color": "#f4f7fc",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

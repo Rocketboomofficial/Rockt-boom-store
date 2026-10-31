@@ -5,12 +5,12 @@
   "description": "فروشگاه اپلیکیشن‌ها و بازی‌های Rocket Boom",
   "lang": "fa",
   "dir": "rtl",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f5f7fb",
-  "theme_color": "#f5f7fb",
+  "background_color": "#f4f7fc",
+  "theme_color": "#f4f7fc",
   "icons": [
     {
       "src": "assets/icon.svg",
@@ -18,5 +18,9 @@
       "type": "image/svg+xml",
       "purpose": "any maskable"
     }
+  ],
+  "display_override": [
+    "standalone",
+    "minimal-ui"
   ]
 }

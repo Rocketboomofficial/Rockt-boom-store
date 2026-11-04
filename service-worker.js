@@ -1,4 +1,4 @@
-const CACHE='rocket-boom-store-v11-shayan-ai';
+const CACHE='rocket-boom-store-v12-store-icon-motion';
 const CORE=[
  './','./index.html','./manifest.webmanifest','./service-worker.js',
  './assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png',

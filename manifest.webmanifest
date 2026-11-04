@@ -2,7 +2,7 @@
   "id": "./",
   "name": "Rocket Boom Store",
   "short_name": "RB Store",
-  "description": "فروشگاه اپلیکیشن‌ها و بازی‌های Rocket Boom و Shayan AI",
+  "description": "فروشگاه اپلیکیشن‌ها و بازی‌های Rocket Boom",
   "lang": "fa",
   "dir": "rtl",
   "start_url": "./",
@@ -10,7 +10,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f4f7fc",
-  "theme_color": "#246fe5",
+  "theme_color": "#101d33",
   "display_override": [
     "standalone",
     "minimal-ui"

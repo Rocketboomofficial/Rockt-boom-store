@@ -1,8 +1,8 @@
 {
-  "id": "/",
+  "id": "./",
   "name": "Rocket Boom Store",
   "short_name": "RB Store",
-  "description": "فروشگاه اپلیکیشن‌ها و بازی‌های Rocket Boom",
+  "description": "فروشگاه اپلیکیشن‌ها و بازی‌های Rocket Boom و Shayan AI",
   "lang": "fa",
   "dir": "rtl",
   "start_url": "./",
@@ -10,17 +10,45 @@
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f4f7fc",
-  "theme_color": "#f4f7fc",
-  "icons": [
-    {
-      "src": "assets/icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ],
+  "theme_color": "#246fe5",
   "display_override": [
     "standalone",
     "minimal-ui"
+  ],
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/shayan-ai-1.jpg",
+      "sizes": "878x1536",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Shayan AI home"
+    },
+    {
+      "src": "assets/shayan-ai-4.jpg",
+      "sizes": "893x1536",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Shayan AI dark theme"
+    }
   ]
 }

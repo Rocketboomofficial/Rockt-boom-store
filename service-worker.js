@@ -1,4 +1,4 @@
-const CACHE='rocket-boom-store-v12-store-icon-motion';
+const CACHE='rocket-boom-store-apk-settings-v1';
 const CORE=[
  './','./index.html','./manifest.webmanifest','./service-worker.js',
  './assets/icon.svg','./assets/icon-192.png','./assets/icon-512.png',
